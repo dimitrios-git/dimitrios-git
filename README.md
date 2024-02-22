@@ -1,6 +1,6 @@
 # :wave: Hello!
-I am Dimitrios, an aspiring developer, a Linux enthusiast and an experienced
-financial professional.
+I am Dimitrios, an aspiring developer, a Linux enthusiast and a financial
+professional.
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/dscharalampidis/).
 
