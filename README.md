@@ -1,4 +1,4 @@
-# :wave: Hello!
+# Hello!
 I am Dimitrios, an aspiring developer, a Linux enthusiast and a financial
 professional.
 
