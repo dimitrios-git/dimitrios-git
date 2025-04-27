@@ -4,4 +4,4 @@ professional.
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/dscharalampidis/).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrios-git&layout=compact&theme=dark&border_radius=0)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrios-git&layout=compact&theme=github_dark&border_radius=0)](#)
